@@ -16,6 +16,7 @@
 		6027EAFF29153FE0003A087A /* test1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6027EAFE29153FE0003A087A /* test1Tests.swift */; };
 		6027EB0929153FE0003A087A /* test1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6027EB0829153FE0003A087A /* test1UITests.swift */; };
 		6027EB0B29153FE0003A087A /* test1UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6027EB0A29153FE0003A087A /* test1UITestsLaunchTests.swift */; };
+		6027EB1A2916114B003A087A /* IMG_8504.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6027EB192916114B003A087A /* IMG_8504.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		6027EB0429153FE0003A087A /* test1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = test1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6027EB0829153FE0003A087A /* test1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test1UITests.swift; sourceTree = "<group>"; };
 		6027EB0A29153FE0003A087A /* test1UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test1UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		6027EB192916114B003A087A /* IMG_8504.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_8504.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				6027EAE929153FDB003A087A /* SceneDelegate.swift */,
 				6027EAEB29153FDB003A087A /* ViewController.swift */,
 				6027EAED29153FDB003A087A /* Main.storyboard */,
+				6027EB192916114B003A087A /* IMG_8504.jpg */,
 				6027EAF029153FDF003A087A /* Assets.xcassets */,
 				6027EAF229153FDF003A087A /* LaunchScreen.storyboard */,
 				6027EAF529153FDF003A087A /* Info.plist */,
@@ -231,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6027EB1A2916114B003A087A /* IMG_8504.jpg in Resources */,
 				6027EAF429153FDF003A087A /* LaunchScreen.storyboard in Resources */,
 				6027EAF129153FDF003A087A /* Assets.xcassets in Resources */,
 				6027EAEF29153FDB003A087A /* Main.storyboard in Resources */,
